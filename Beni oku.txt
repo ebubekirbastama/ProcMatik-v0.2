@@ -1,0 +1,10 @@
+Bu program www.youtube.com/yazilimegitim ve www.ebubekirbastama.com siteleri adýna ücretsiz oalrak MÝT lisansý ile daðýtýlmaktadýr.
+Bu source kodun özelliði otomatik Store procedurl Ms-sql and C# dillerine oluþturmasý oto get; set; vd. özellikler eklenmiþ olup hali hazýrda eklenecektir.
+Bu Source Kodu yeni çýkartacaðým C# Kitabý için paylaþmaktayým.
+www.ebubekirbastama.com
+www.facebook.com/ebubekirbastama
+www.github.com/ebubekirbastama
+www.youtube.com/yazilimegitim
+www.twitter.com/ebastama
+www.instagram.com/ebubekirbastama
+www.facebook.com/pintimarket
